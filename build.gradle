@@ -25,7 +25,7 @@ dependencies {
 	}
 }
 
-group = 'com.example'
+group = 'equipmentinspector'
 version = '1.1'
 sourceCompatibility = '1.8'
 
